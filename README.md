@@ -14,15 +14,15 @@ Elecar is a simple car website template built with HTML, Tailwind Css, and JavaS
 
 
 ## Preview
-![preview](https://github.com/kaushalsahu07/elecar/assets/131914333/3d96049c-af97-4bf5-9944-037bf747bc80)
+![preview](https://github.com/JatinChanyalHub/elecar/assets/131914333/3d96049c-af97-4bf5-9944-037bf747bc80)
 
 ``
 Credit For Desgin :- @bedimcode
 ``
 ## Contact
-For any inquiries, reach out at [kaushalsahu.me@gmail.com].<br>
-GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
-Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
-Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
-Portfolio: [Website Link ](https://kaushalsahu.tech/).<br>
-X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
+For any inquiries, reach out at [jatinchanyal1@gmail.com].<br>
+GitHub: [@JatinChanyalHub](https://github.com/JatinChanyalHub).<br>
+Linkedin: [@JatinChanyal](https://www.linkedin.com/in/jatinchanyal).<br>
+Instagram: [@jatinchanyal](https://www.instagram.com/jatinchanyal/).<br>
+Portfolio: [Website Link ](https://jatinchanyalhub.github.io/My-Portfoilio/).<br>
+X (Tweeter): [@JatinChanyal](https://x.com/JatinChanyal).<br>
