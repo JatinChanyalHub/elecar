@@ -1,28 +1,13 @@
-# Car Website
-Elecar is a simple car website template built with HTML, Tailwind Css, and JavaScript and it is Responsive design.
+# 🚘 Responsive Car website
+## [Visit Live Site](https://elecar-car-site.vercel.app/)
+### 🚘 Elecar - Car website
 
-## Features
+The project I clone from [Bedimcode](https://www.youtube.com/c/Bedimcode) and website template: [Responsive Car Website](https://youtu.be/bDngcOQ8Img?si=OXiCUsj7li6BvK2O)
 
-- Responsive design
+- Responsive Car website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## Library Used
-
-- [Kunkalabs](https://www.kunkalabs.com/mixitup/)
-- [Scrollreveal](https://scrollrevealjs.org/)
-- [Swiperjs](https://swiperjs.com/)
-
-
-## Preview
-![preview](https://github.com/JatinChanyalHub/elecar/assets/131914333/3d96049c-af97-4bf5-9944-037bf747bc80)
-
-``
-Credit For Desgin :- @bedimcode
-``
-## Contact
-For any inquiries, reach out at [jatinchanyal1@gmail.com].<br>
-GitHub: [@JatinChanyalHub](https://github.com/JatinChanyalHub).<br>
-Linkedin: [@JatinChanyal](https://www.linkedin.com/in/jatinchanyal).<br>
-Instagram: [@jatinchanyal](https://www.instagram.com/jatinchanyal/).<br>
-Portfolio: [Website Link ](https://jatinchanyalhub.github.io/My-Portfoilio/).<br>
-X (Tweeter): [@JatinChanyal](https://x.com/JatinChanyal).<br>
+![preview img](/preview.png)
